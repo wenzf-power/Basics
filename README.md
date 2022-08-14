@@ -1,2 +1,2 @@
 # Basics
-java基础运用
+Java 基础运用
