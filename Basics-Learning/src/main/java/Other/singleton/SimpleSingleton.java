@@ -1,4 +1,4 @@
-package main.java.Other;
+package main.java.Other.singleton;
 
 /**
  * @Author: wenzf
